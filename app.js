@@ -39,3 +39,11 @@ function sortearAmigo() {
         resultado.innerHTML = `El amigo sorteado es: ${amigoSorteado}`;
     }
 }
+
+function reiniciarJuego() {
+    amigos = [];
+
+    document.getElementById('listaAmigos').innerHTML = "";
+    document.getElementById('resultado').innerHTML = "";
+    document.getElementById('amigo').value = "";
+}
