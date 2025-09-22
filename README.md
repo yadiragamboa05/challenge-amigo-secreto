@@ -13,14 +13,14 @@ Los usuarios pueden agregar nombres a una lista y luego sortear aleatoriamente q
 
 ## 📂 Estructura del Proyecto
 challenge-amigo-secreto/
-├── index.html # Página principal
-├── style.css # Estilos de la aplicación
-├── app.js # Lógica en JavaScript
-├── assets/ # Imágenes utilizadas
-│ ├── amigo-secreto.png
-│ ├── gatito.webp
-│ └── play_circle_outline.png
-└── README.md # Documentación
+├── index.html # Página principal <br>
+├── style.css # Estilos de la aplicación <br>
+├── app.js # Lógica en JavaScript <br>
+├── assets/ # Imágenes utilizadas <br>
+│ ├── amigo-secreto.png <br>
+│ ├── gatito.webp <br>
+│ └── play_circle_outline.png <br>
+└── README.md # Documentación <br>
 
 
 ## 🖥️ Tecnologías Utilizadas
