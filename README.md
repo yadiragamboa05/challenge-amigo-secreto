@@ -12,7 +12,7 @@ Los usuarios pueden agregar nombres a una lista y luego sortear aleatoriamente q
 - Interfaz simple y amigable.
 
 ## 📂 Estructura del Proyecto
-challenge-amigo-secreto/
+challenge-amigo-secreto/ <br>
 ├── index.html # Página principal <br>
 ├── style.css # Estilos de la aplicación <br>
 ├── app.js # Lógica en JavaScript <br>
