@@ -47,3 +47,10 @@ function reiniciarJuego() {
     document.getElementById('resultado').innerHTML = "";
     document.getElementById('amigo').value = "";
 }
+
+//Código para que detecte enter en el imput
+document.getElementById("amigo").addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+        agregarAmigo();
+    }
+});

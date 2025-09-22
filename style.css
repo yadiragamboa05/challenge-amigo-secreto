@@ -1,9 +1,9 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #f18282;
     --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-tertiary: #95AFBF;
+    --color-button: #BF8B5E;
+    --color-button-hover: #d4af82;
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
@@ -37,6 +37,11 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px 0 0;
+}
+
+.img-representativo {
+    height: 15rem;
+    margin: 2rem;
 }
 
 /* Sección de entrada */
@@ -138,7 +143,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #8d3806;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
