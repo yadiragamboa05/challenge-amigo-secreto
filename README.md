@@ -50,3 +50,5 @@ Puedes probar la aplicación en el siguiente enlace:
 ## 👩‍💻 Autor
 
 Hecho por **Yadira Gamboa**
+
+*Proyecto desarrollado con fines educativos para el programa de Alura Latam.*
